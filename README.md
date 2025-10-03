@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirac Doğan</h1>
 <h3 align="center">A software engineer candidate who is always lost in his passionates.</h3>
 
-- 🌱 I’m currently learning on backend side. **.NET Technologies, Databases, APIs, Server Side. As an engineer I'm also interested in Algorithms, Data Structures, Software Architectures, SOLID and more.**
+- 🌱 I’m currently learning on backend side. **.NET Technologies, Databases, APIs, Server Side. As an engineer candidate I'm also interested in Algorithms, Data Structures, Software Architectures, SOLID and more.**
 
 - ⚡ **I like to specialize in anything I'm interested in.**
 
